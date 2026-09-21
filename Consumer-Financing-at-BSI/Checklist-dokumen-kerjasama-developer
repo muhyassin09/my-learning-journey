@@ -1,0 +1,88 @@
+# Kunci Pemahaman: 4 Pertanyaan Bank dalam Verifikasi Dokumen Developer
+
+## Logika Dasar
+
+Bank membiayai **pembeli rumah**, tapi rumahnya dibangun oleh **developer**. Rumah itu jadi **agunan** kredit. Kalau developer bermasalah — bangkrut, lahannya sengketa, izinnya tidak sah — agunan itu ikut bermasalah, dan bank yang menanggung risikonya.
+
+Karena itu, sebelum bank mau teken PKS, developer harus menjawab **4 pertanyaan mendasar**. Semua dokumen yang diminta bank, seberapa pun banyaknya, sebenarnya hanya jawaban atas 4 pertanyaan ini.
+
+---
+
+## Pertanyaan 1 — Siapa Kamu?
+
+**Bank ingin tahu:** apakah developer ini badan usaha yang sah dan jelas siapa yang bertanggung jawab.
+
+| Dokumen | Menjawab Apa |
+|---|---|
+| Akta Pendirian | Bukti resmi perusahaan didirikan, memuat aturan main & siapa pendirinya |
+| SK Menkumham | Pengesahan negara bahwa akta tersebut sah secara hukum |
+| Akta Perubahan (bila ada) | Siapa direksi/pemegang saham saat ini, kalau pernah berganti |
+| NPWP Perusahaan | Identitas pajak resmi badan usaha |
+| NIB | Bukti terdaftar dan diizinkan menjalankan usaha (pengganti TDP/SIUP) |
+| KTP Direksi & Pemegang Saham | Siapa individu yang bertanggung jawab di balik badan hukum ini |
+
+---
+
+## Pertanyaan 2 — Bisa Dipercaya?
+
+**Bank ingin tahu:** apakah developer ini punya rekam jejak yang bersih dan terbukti mampu menyelesaikan proyek.
+
+| Dokumen/Proses | Menjawab Apa |
+|---|---|
+| IDeb/SLIK OJK | Riwayat kredit developer & pengurus — pernah macet bayar atau tidak |
+| Checking Internal Bank (DHN/PPATK/DTTOT/NPF/WO) | Apakah developer/pengurus pernah tersangkut masalah hukum/pendanaan |
+| Bukti Pengalaman (portofolio proyek, referensi bank sebelumnya) | Apakah developer terbukti bisa menyelesaikan proyek, bukan baru coba-coba |
+
+---
+
+## Pertanyaan 3 — Tanahnya Benar Milikmu?
+
+**Bank ingin tahu:** apakah lahan yang mau dibangun rumah itu benar-benar sah dikuasai developer, tidak sedang jadi sengketa atau jaminan di tempat lain.
+
+| Dokumen | Menjawab Apa |
+|---|---|
+| Sertifikat Induk/Daftar Sertifikat Pecahan (SHGB/SHM) | Bukti kepemilikan lahan yang sah |
+| Surat Pernyataan Tidak Dijaminkan | Konfirmasi sertifikat tidak sedang digadaikan ke bank/pihak lain |
+| KSO/Akta Kuasa Menjual | Bila lahan bukan milik developer sendiri, ini bukti developer punya hak sah untuk membangun & menjual di atasnya |
+
+---
+
+## Pertanyaan 4 — Boleh Bangun di Situ?
+
+**Bank ingin tahu:** apakah proyek ini punya izin resmi untuk dibangun, sesuai tata ruang dan aturan pemerintah daerah.
+
+| Dokumen | Menjawab Apa |
+|---|---|
+| Izin Lokasi/KKPR | Lahan ini memang diperuntukkan untuk perumahan, sesuai rencana tata ruang |
+| Site Plan yang Disahkan | Rancangan kawasan sudah disetujui resmi oleh dinas terkait |
+| IMB/PBG | Izin mendirikan bangunan fisiknya sudah/sedang diproses secara sah |
+
+---
+
+## Ringkasan Satu Halaman
+
+```
+BANK BERTANYA                    DOKUMEN YANG MENJAWAB
+─────────────────────────────────────────────────────────
+1. Siapa kamu?               →   Akta, SK Menkumham, NPWP, NIB, KTP pengurus
+2. Bisa dipercaya?           →   IDeb/SLIK, Checking Internal, Pengalaman
+3. Tanahnya benar milikmu?   →   Sertifikat, Surat Pernyataan, KSO
+4. Boleh bangun di situ?     →   Izin Lokasi/KKPR, Site Plan, IMB/PBG
+```
+
+---
+
+## Cara Pakai Kerangka Ini Saat Verifikasi
+
+Setiap kali menerima dokumen apa pun dari developer, sebelum bingung "ini masuk kategori mana", tanyakan dulu:
+
+> **"Dokumen ini sedang menjawab pertanyaan bank yang mana — 1, 2, 3, atau 4?"**
+
+Begitu tahu pertanyaan mana yang dijawab, otomatis jelas: dokumen ini penting untuk membuktikan apa, dan kalau kurang, risikonya di bagian mana yang belum terjawab ke bank.
+
+**Contoh penerapan:**
+- Dapat "Surat Progress PBG" → ini menjawab Pertanyaan 4, tapi jawabannya belum tuntas (masih proses) → berarti keyakinan bank soal "boleh bangun di situ" masih menggantung
+- Dapat SK tanpa akta → ini mencoba menjawab Pertanyaan 1, tapi belum lengkap (SK bukan pengganti akta) → identitas developer belum sepenuhnya terverifikasi
+- SHGB sudah atas nama PT sendiri → Pertanyaan 3 terjawab tuntas dari sisi kepemilikan → dokumen terkait pihak ketiga (KSO) otomatis tidak diperlukan
+
+Kalau satu dari 4 pertanyaan ini masih ada yang menggantung, itu artinya berkas developer **belum siap** diajukan ke bank — sekuat apa pun jawaban di 3 pertanyaan lainnya.
