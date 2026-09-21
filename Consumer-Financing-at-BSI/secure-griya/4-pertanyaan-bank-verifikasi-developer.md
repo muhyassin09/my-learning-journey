@@ -124,8 +124,8 @@ flowchart TD
     A -->|Ya| B{"2. Bisa dipercaya?<br/>terjawab tuntas?"}
     B -->|Ya| C{"3. Tanahnya benar milikmu?<br/>terjawab tuntas?"}
     C -->|Ya| D{"4. Boleh bangun di situ?<br/>terjawab tuntas?"}
-    D -->|Ya| OK(["✅ Berkas siap diajukan ke bank"])
-    A -->|Belum| X(["⛔ Belum siap: lengkapi bagian yang menggantung"])
+    D -->|Ya| OK(["✅ Berkas siap"])
+    A -->|Belum| X(["⛔ Belum siap"])
     B -->|Belum| X
     C -->|Belum| X
     D -->|Belum| X
