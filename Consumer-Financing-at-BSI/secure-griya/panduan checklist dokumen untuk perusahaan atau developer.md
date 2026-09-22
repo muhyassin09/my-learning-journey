@@ -173,7 +173,7 @@ Kerangka 4 pertanyaan menilai **kelayakan** developer. Tapi ada satu kelompok do
 | Contoh PPJB & Surat Pesanan | Format transaksi standar (harus blanko kosong, bukan dokumen riil pembeli tertentu) |
 
 > [!TIP]
-> Bedakan sumbernya: Aplikasi Kerjasama Developer diminta ke **RM bank**, sedangkan Brosur & Daftar Harga diminta ke **developer** (biasanya bagian marketing) dan harus versi terbaru.
+> Bedakan sumbernya: Aplikasi Kerjasama Developer diminta ke ***Relationship Manager bank***, sedangkan Brosur & Daftar Harga diminta ke **developer** (biasanya bagian marketing) dan harus versi terbaru.
 
 Jadi checklist verifikasi lengkap punya dua lapis:
 
