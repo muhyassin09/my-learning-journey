@@ -1,6 +1,6 @@
-# 4 Pertanyaan Bank dalam Verifikasi Dokumen Developer
+# 4 Pertanyaan Bank dalam Verifikasi Dokumen Perusahaan/Developer
 
-> Satu kerangka sederhana untuk memahami **mengapa** bank meminta puluhan dokumen dari developer, dan bagaimana membacanya dengan cepat.
+> Satu kerangka sederhana untuk memahami **mengapa** bank meminta puluhan dokumen dari perusahaan/developer, dan bagaimana membacanya dengan cepat.
 
 **Cocok untuk:** pemula di pembiayaan properti (KPR developer), analis magang, dan siapa pun yang perlu memverifikasi berkas kerjasama developer.
 
