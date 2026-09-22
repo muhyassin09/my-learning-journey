@@ -202,6 +202,3 @@ Beberapa dokumen di checklist masih memakai nama lama. Kenali padanannya agar ti
 
 > [!NOTE]
 > Dokumen ini adalah **catatan belajar** untuk memahami logika verifikasi. Ketentuan resmi (parameter, daftar dokumen wajib, batas) mengikuti SOP dan kebijakan bank yang berlaku.
-
-> [!CAUTION]
-> Jangan mengunggah data nasabah, dokumen developer asli, atau dokumen internal bank ke repositori ini, terutama jika repositori bersifat publik. Gunakan contoh fiktif.
